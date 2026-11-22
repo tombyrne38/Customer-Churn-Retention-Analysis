@@ -1,3 +1,7 @@
+## 🚀 Live Interactive App
+
+[Try the Customer Churn Prediction App](https://customer-churn-retention-analysis-69jxeqkrrj4466fqdidxjt.streamlit.app)
+
 Customer Churn & Retention Analysis
 
 Python | Pandas | Seaborn | Matplotlib | Exploratory Data Analysis
