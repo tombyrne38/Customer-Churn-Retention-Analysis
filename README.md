@@ -2,6 +2,34 @@
 
 [Try the Customer Churn Prediction App](https://customer-churn-retention-analysis-69jxeqkrrj4466fqdidxjt.streamlit.app)
 
+📊 Project Highlights
+
+This project combines exploratory data analysis, machine learning, and business-focused recommendations to investigate customer churn using the IBM Telco Customer Churn dataset.
+
+Key findings
+
+Analysed 7,043 customer records with an overall churn rate of 26.54%.
+
+Identified month-to-month customers in their first 12 months as a particularly high-risk segment, with a 51.35% churn rate.
+
+Explored customer retention opportunities using illustrative financial scenarios.
+
+Machine learning results
+
+Compared Logistic Regression and Random Forest models.
+
+Selected Logistic Regression, achieving a test ROC-AUC of 0.842.
+
+At a 30% classification threshold, the model achieved 75.4% recall on the test set.
+
+Used model explainability techniques to investigate factors associated with churn.
+
+Interactive application
+
+Built and deployed a Streamlit app that estimates customer churn probability and suggests potential retention actions.
+
+Note: Predictions identify associations rather than causes. Financial scenarios are illustrative and do not represent proven retention outcomes.
+
 Customer Churn & Retention Analysis
 
 Python | Pandas | Seaborn | Matplotlib | Exploratory Data Analysis
